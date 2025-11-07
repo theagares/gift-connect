@@ -1,0 +1,7 @@
+{
+  "name": "Gift Connect",
+  "description": "A personalized gift recommendation service that suggests the most appropriate gifts for business partners and friends based on their profile, interests, and important dates.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
